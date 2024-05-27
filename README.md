@@ -4,12 +4,16 @@
 <p>A stock application manager that can track the stock of product in one store according to a stock calculation method</p>
 
 <h2>Technology &#x1F680;</h2>
-<li>Yarn</li>
+<h3>Env &#x1F4BB;</h3>
+<li>
+  <a href="https://docker-curriculum.com/">Docker</a>
+</li>
 <h3>Front Office &#x1F4BB;</h3>
 <li>React</li>
 <ul>
   <li>Next</li>
   <li>Formik</li>
+  <li>Tailwindcss</li>
 </ul>
 
 <h3>Back Office &#x1F4BB;</h3>
